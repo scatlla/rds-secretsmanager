@@ -1,4 +1,4 @@
-# rds-ssm
+# rds-secretsmanager
 
 First, create a secret in AWS Secrets Manager.
 You can do this via the console, CLI, Terraform, CFT, etc.
